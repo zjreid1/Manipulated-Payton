@@ -132,3 +132,31 @@ One poorly designed feature in a computer system in California opened the entire
 
 
 ### Ch 10: Death of Democracy
+
+"""
+“A small number of very active bots can actually significantly shift public opinion,” says Tauhid Zaman, associate professor of operations management at MIT Sloan School of Management. “And despite social-media companies’ efforts, there are still large numbers of bots out there, constantly tweeting and retweeting, trying to influence real people who vote.”7 This means that, increasingly, fringe views will be overrepresented electorally. This means, also, that voters, repeatedly disenfranchised, will become apathetic. Unless you have a money machine behind you to combat the manipulation or curry favor with the state-sponsored manipulators, you can’t win. The adage used to be that the campaign with the best message that incents voter turnout wins. This is no longer true. The adage is now, Keep your head down, and don’t incite the trolls.
+"""
+
+- Cybercriminals/nation states are regularly innovating from Estonia in 2007 to today, there are new methodologies, TTPs, and deepfakes that push various narratives
+- Tech companies are falling short despite their prevalince in our lives, even businesses can be faked as up to 11 million businesses on Google Maps are fake according to WSJ
+- Social media companies are reluctant to comply with investigations and don't take pages/posts that have red flags very seriously
+- Manipulation campaigns are often directed not just at elections, parties, or states, but also at individuals and businesses where bot farms and bombarded reviews can sink a reputation
+- Everything/everyone from big tech, to news orgs, to politicians are struggling to keep up with manipulation campaigns to where incremental changes are not good enough
+
+"""
+This is the fundamental reason why every day, cybersecurity fails to protect you from manipulation campaigns: Everyone is counting on the user to do the heavy lifting to ensure they are not manipulated.
+"""
+
+- Design for safety first, with safeguards ane education in place, and imposting cost on bad actors
+
+"""
+We need to establish a global center to focus on tracking the proliferation of cyber manipulation and cybercrime tactics so we can educate users and stop them from becoming victims. The global center would have a “red phone” concept. Just as the red phone provided a direct line of communication during the Cold War between the United States and Russia, global democracies need a red phone that rings into a central organization that can be used in times of democratic disaster. This group must bring together countries, security professionals, media, political parties and politicians, and technology experts to proactively anticipate what countries such as Russia, China, Iran, and North Korea might try next.
+"""
+
+- To help put a stop to manipulation tactics/technology everyone must be informed and engaged against bad actors
+
+### Ch 11: WHat Can You Do?
+
+- To stop manipulators require a whole effort of action from social networks/news aggregators to vet posts accurately and quickly, to disincentivizing rage bait posts, to not using information for targeting.
+- In reality, the actions people can take are to report election abuses, watch out for clickbait/"alternative" news, watch out for fake/hijacked personas, and check for deepfakes (make sure to verify things at the source, and check the details)
+- Keep up to date on current events and developments in cyber manipulation, and check a story using multiple sources
